@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chatchai.ti.HENGLEASING\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chatchai.ti.HENGLEASING\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
